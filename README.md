@@ -3,12 +3,17 @@
 - 🔭 Projects I have worked on...
   - [Parkè - Online Parking Spot Booking](https://parke.co.in)
   - [Shotly - URL Shortner](https://app.codedoc.tech) (Takes sometime for cold boot)
+  - [Witty - Meme Bot](https://messengerx.io/witty)
   - [FireStream - Video Streaming and Video Recommendation](https://stream.codedoc.tech) | [Backend](https://github.com/abhishekraj272/Video-Streaming-Backend)
   - [Youtube Video Lister](https://github.com/abhishekraj272/youtube-video-lister)
   - [Easy-Send-Email - Email Client](https://github.com/abhishekraj272/Easy-Send-Email)
   - [DSC WOW - Hackathon with 14k+ Participants](https://github.com/Diversity-In-DSC)
   - [KIIT Hack CLub](https://kiit.hackclub.com)
   - [Esports Zealot - Gaming News and Slangs](https://ezealot.github.io)
+
+- Packages I have worked on...
+  - [MachaaoPy](https://pypi.org/project/machaao/)
+  - [MachaaoGo](https://pkg.go.dev/github.com/machaao/machaao-go)
 
 - 🌱 I’m currently learning ...
   - GraphQL
