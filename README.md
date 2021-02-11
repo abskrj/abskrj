@@ -2,7 +2,7 @@
 
 - 🔭 Projects I have worked on...
   - [Parkè - Online Parking Spot Booking](https://parke.co.in)
-  - [Shotly - URL Shortner](https://app.codedoc.tech) (Takes sometime for cold boot)
+  - [Shotly - URL Shortner](https://app.codedoc.tech)
   - [Witty - Meme Bot](https://messengerx.io/witty)
   - [FireStream - Video Streaming and Video Recommendation](https://stream.codedoc.tech) | [Backend](https://github.com/abhishekraj272/Video-Streaming-Backend)
   - [Youtube Video Lister](https://github.com/abhishekraj272/youtube-video-lister)
