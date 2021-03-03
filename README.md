@@ -15,12 +15,6 @@
   - [MachaaoPy](https://pypi.org/project/machaao/)
   - [MachaaoGo](https://pkg.go.dev/github.com/machaao/machaao-go)
 
-- 🌱 I’m currently learning ...
-  - GraphQL
-  - FaunaDB
-  - GoLang
-  - React Query
-  - Rust
   
 - 📫 How to reach me: ...
   - Email: [abhishekraj272@gmail.com](abhishekraj272@gmail.com)
