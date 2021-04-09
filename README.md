@@ -4,7 +4,7 @@
   - [Parkè - Online Parking Spot Booking](https://parke.co.in)
   - [Shotly - URL Shortner](https://app.sotly.co)
   - [Witty - Meme Bot](https://messengerx.io/witty)
-  - [FireStream - Video Streaming and Video Recommendation](https://stream.codedoc.tech) | [Backend](https://github.com/abhishekraj272/Video-Streaming-Backend)
+  - [FireStream - Video Streaming and Video Recommendation](https://firestreamz.co) | [Backend](https://github.com/abhishekraj272/Video-Streaming-Backend)
   - [Snake Terminux | A terminal based Snake game in Golang](https://github.com/abhishekraj272/snake-terminux)
   - [Youtube Video Lister](https://github.com/abhishekraj272/youtube-video-lister)
   - [Easy-Send-Email - Email Client](https://github.com/abhishekraj272/Easy-Send-Email)
