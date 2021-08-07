@@ -5,6 +5,7 @@
   - [Parkè - Online Parking Spot Booking](https://parke.co.in)
   - [Web Code Editor - A Web Based code editor for HTML+CSS+JS](https://sotly.co/bro-ide) | [Repo](https://github.com/abhishekraj272/Bro-Code-Web-IDE)
   - [Shotly - URL Shortner](https://app.sotly.co)
+  - [Minesweeper - Game](https://heavy-mine-sweeper.vercel.app/) | [Repo](https://github.com/abhishekraj272/Buggy-MineSweeper)
   - [Witty - Meme Bot](https://messengerx.io/witty)
   - [FireStream - Video Streaming and Video Recommendation](https://firestreamz.co) | [Backend](https://github.com/abhishekraj272/Video-Streaming-Backend)
   - [Snake Terminux | A terminal based Snake game in Golang](https://github.com/abhishekraj272/snake-terminux)
