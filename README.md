@@ -19,6 +19,9 @@
   - [MachaaoPy](https://pypi.org/project/machaao/)
   - [MachaaoGo](https://pkg.go.dev/github.com/machaao/machaao-go)
 
+- 📖 Read my Blogs...
+  - [DEV](https://dev.to/abhishekraj272)
+  - [Medium](https://abhishekraj272.medium.com)
   
 - 📫 How to reach me: ...
   - Email: [abhishekraj272@gmail.com](abhishekraj272@gmail.com)
