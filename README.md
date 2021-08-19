@@ -7,6 +7,7 @@
   - [Shotly - URL Shortner](https://app.sotly.co)
   - [Minesweeper - Game](https://heavy-mine-sweeper.vercel.app/) | [Repo](https://github.com/abhishekraj272/Buggy-MineSweeper)
   - [Witty - Meme Bot](https://messengerx.io/witty)
+  - [Scratch - React Based Code Block Editor inspired from MIT's Scratch](https://scratch-web-editor.vercel.app/) | [Repo](https://github.com/abhishekraj272/Scratch-Web-Editor) UNDER DEV
   - [FireStream - Video Streaming and Video Recommendation](https://firestreamz.co) | [Backend](https://github.com/abhishekraj272/Video-Streaming-Backend)
   - [Snake Terminux | A terminal based Snake game in Golang](https://github.com/abhishekraj272/snake-terminux)
   - [Youtube Video Lister](https://github.com/abhishekraj272/youtube-video-lister)
