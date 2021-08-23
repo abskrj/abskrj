@@ -25,7 +25,7 @@
   - [Medium](https://abhishekraj272.medium.com)
   
 - 📫 How to reach me: ...
-  - Email: [abhishekraj272@gmail.com](abhishekraj272@gmail.com)
+  - Email: [abhishekraj272@gmail.com](mailto:abhishekraj272@gmail.com)
   - Linkedin: [abhishekraj272](https://linkedin.com/in/abhishekraj272)
 
 
