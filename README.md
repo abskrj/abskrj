@@ -13,7 +13,7 @@
   - [Youtube Video Lister](https://github.com/abhishekraj272/youtube-video-lister)
   - [Easy-Send-Email - Email Client](https://github.com/abhishekraj272/Easy-Send-Email)
   - [DSC WOW - Hackathon with 14k+ Participants](https://github.com/Diversity-In-DSC)
-  - [KIIT Hack Club](https://kiit.hackclub.com)
+  - [KIIT Hack Club Website](https://kiit.hackclub.com)
   - [Esports Zealot - Gaming News and Slangs](https://ezealot.github.io)
 
 - 📦 Packages I have worked on...
