@@ -19,6 +19,7 @@
 - 📦 Packages I have worked on...
   - [MachaaoPy](https://pypi.org/project/machaao/)
   - [MachaaoGo](https://pkg.go.dev/github.com/machaao/machaao-go)
+  - [Babel Plugin Function Injection](https://www.npmjs.com/package/babel-plugin-function-injection) | [Repo](https://github.com/abhishekraj272/babel-plugin-function-injection)
 
 - 📖 Read my Blogs...
   - [DEV](https://dev.to/abhishekraj272)
