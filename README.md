@@ -1,5 +1,4 @@
 ### Hello, This is Abhishek Raj 👋 
-![](https://komarev.com/ghpvc/?username=abhishekraj272&label=PROFILE+VIEWS)
 
 - 🔭 Projects I have worked on...
   - [Parkè - Online Parking Spot Booking](https://parke.co.in)
@@ -29,4 +28,4 @@
   - Email: [abhishekraj272@gmail.com](mailto:abhishekraj272@gmail.com)
   - Linkedin: [abhishekraj272](https://linkedin.com/in/abhishekraj272)
 
-
+![](https://komarev.com/ghpvc/?username=abhishekraj272&label=PROFILE+VIEWS)
