@@ -2,7 +2,7 @@
 
 - 🔭 Projects I have worked on...
   - [Parkè - Online Parking Spot Booking](https://parke.co.in)
-  - [Web Code Editor - A Web Based code editor for HTML+CSS+JS](https://sotly.co/bro-ide) | [Repo](https://github.com/abhishekraj272/Bro-Code-Web-IDE)
+  - [Web Code Editor - A Web Based code editor for HTML+CSS+JS](https://abhishekraj272.github.io/Bro-Code-Web-IDE/) | [Repo](https://github.com/abhishekraj272/Bro-Code-Web-IDE)
   - [Shotly - URL Shortner](https://app.sotly.co)
   - [Minesweeper - Game](https://heavy-mine-sweeper.vercel.app/) | [Repo](https://github.com/abhishekraj272/Buggy-MineSweeper)
   - [Witty - Meme Bot](https://messengerx.io/witty)
