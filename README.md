@@ -28,6 +28,4 @@
   - Email: [abhishekraj272@gmail.com](mailto:abhishekraj272@gmail.com)
   - Linkedin: [abhishekraj272](https://linkedin.com/in/abhishekraj272)
 
-![](https://komarev.com/ghpvc/?username=abhishekraj272&label=PROFILE+VIEWS)
-
-<img src="https://abhi.requestcatcher.com/test" />
+![](https://komarev.com/ghpvc/?username=abskrj&label=PROFILE+VIEWS)
